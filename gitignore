@@ -1,0 +1,5 @@
+# Never commit signing keys or key backups
+*.pk8
+*.pem
+*.tar.gz
+keys/
